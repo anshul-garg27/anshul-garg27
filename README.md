@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:anshulgarg.garg509@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
-  <a href="https://linkedin.com/in/anshul-garg27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/anshullkgarg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="https://github.com/anshul-garg27"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=anshul-garg27&style=for-the-badge&color=00D4AA" alt="Profile Views">
 </p>
@@ -11,17 +11,16 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-garg27&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" width="320" />
-
 ```yaml
 name: Anshul Garg
 located_in: Bangalore, India
 company: Walmart (Software Engineer)
+education: M.Tech in Computer Science (AI/ML)
 
 currently:
-  building: Large-scale backend systems
-  contributing: anthropics/claude-code (14 PRs)
-  exploring: AI infrastructure & dev tools
+  building: Large-scale backend systems at Walmart
+  contributing: anthropics/claude-code (14 PRs shipped)
+  exploring: AI infrastructure & developer tools
 
 daily_stack: [Python, TypeScript, Go, Java]
 architecture: [Microservices, Event-Driven, CQRS]
@@ -32,8 +31,6 @@ fun_fact: >
   I build rate limiters for fun
   and call it interview prep
 ```
-
-<br clear="both">
 
 ---
 
@@ -114,26 +111,34 @@ fun_fact: >
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/anshul-garg27/claude-enhancement-suite">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshul-garg27&repo=claude-enhancement-suite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=0969DA&text_color=C9D1D9" />
-</a>
+
+**[claude-enhancement-suite](https://github.com/anshul-garg27/claude-enhancement-suite)**<br>
+Complete toolkit to supercharge Claude Code CLI — 10 skills, 9 agents, 3 MCP servers, 6 hook scripts, and optimized config templates<br>
+`TypeScript`
+
 </td>
 <td width="50%">
-<a href="https://github.com/anshul-garg27/NeuronForge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshul-garg27&repo=NeuronForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=0969DA&text_color=C9D1D9" />
-</a>
+
+**[NeuronForge](https://github.com/anshul-garg27/NeuronForge)**<br>
+Cloud-native coding playground platform with interactive learning, real-time collaboration, and multi-language code execution<br>
+`Go`
+
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/anshul-garg27/system-design-projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshul-garg27&repo=system-design-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=0969DA&text_color=C9D1D9" />
-</a>
+
+**[system-design-projects](https://github.com/anshul-garg27/system-design-projects)**<br>
+Collection of System Design implementations: LRU Cache, URL Shortener, KV Stores, Consistent Hashing, and more<br>
+`Python`
+
 </td>
 <td width="50%">
-<a href="https://github.com/anshul-garg27/rate-limiter-python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshul-garg27&repo=rate-limiter-python&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=0969DA&text_color=C9D1D9" />
-</a>
+
+**[rate-limiter-python](https://github.com/anshul-garg27/rate-limiter-python)**<br>
+Production-ready rate limiter with token bucket, sliding window, Prometheus metrics & Grafana dashboards<br>
+`Python`
+
 </td>
 </tr>
 </table>
@@ -143,8 +148,8 @@ fun_fact: >
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshul-garg27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=0969DA&text_color=C9D1D9&rank_icon=github&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshul-garg27&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-garg27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -156,7 +161,7 @@ fun_fact: >
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> &nbsp;Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshul-garg27&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anshul-garg27&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 ---
