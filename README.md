@@ -159,10 +159,6 @@ Production-ready rate limiter with token bucket, sliding window, Prometheus metr
   <img width="98%" src="metrics-isocalendar.svg" alt="Isometric Calendar" />
 </p>
 
-<p align="center">
-  <img width="49%" src="metrics-achievements.svg" alt="Achievements" />
-  <img width="49%" src="metrics-habits.svg" alt="Coding Habits" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0969DA,100:00D4AA&height=2" width="100%" />
 
