@@ -1,69 +1,74 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Anshul+Garg;Software+Engineer+%40+Walmart+%7C+Bangalore" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00D4AA&height=220&section=header&text=Anshul%20Garg&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%40%20Walmart%20%7C%20Open%20Source%20Contributor%20%40%20Anthropic&descSize=18&descAlignY=55&descColor=ffffff&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <a href="mailto:anshulgarg.garg509@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/anshul-garg27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/anshul-garg27"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://komarev.com/ghpvc/?username=anshul-garg27&style=for-the-badge&color=blue" alt="Profile Views">
+  <a href="mailto:anshulgarg.garg509@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
+  <a href="https://linkedin.com/in/anshul-garg27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://github.com/anshul-garg27"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=anshul-garg27&style=for-the-badge&color=00D4AA" alt="Profile Views">
 </p>
 
----
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-garg27&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" width="320" />
 
 ```yaml
 name: Anshul Garg
-role: Software Engineer @ Walmart
-location: Bangalore, India
-education: B.Tech in Computer Science
+located_in: Bangalore, India
+company: Walmart (Software Engineer)
 
-currently_working_on:
-  - Large-scale backend systems at Walmart
-  - Open source contributions to Anthropic's Claude Code
-  - Production-grade system design implementations
+currently:
+  building: Large-scale backend systems
+  contributing: anthropics/claude-code (14 PRs)
+  exploring: AI infrastructure & dev tools
 
-open_source:
-  anthropics/claude-code:
-    pull_requests: 14
-    areas: [security, CI/CD, devcontainer, plugins, workflows]
+daily_stack: [Python, TypeScript, Go, Java]
+architecture: [Microservices, Event-Driven, CQRS]
+databases: [PostgreSQL, Redis, DynamoDB]
+devops: [Docker, K8s, Prometheus, Grafana]
 
-interests:
-  - Distributed Systems & System Design
-  - Developer Tooling & AI Infrastructure
-  - Backend Architecture & Observability
-  - Open Source Engineering
-
-fun_fact: "I build rate limiters for fun and call it interview prep"
+fun_fact: >
+  I build rate limiters for fun
+  and call it interview prep
 ```
 
+<br clear="both">
+
 ---
 
-### Open Source @ Anthropic
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Open Source @ Anthropic
 
-<a href="https://github.com/anthropics/claude-code/pulls?q=is%3Apr+author%3Aanshul-garg27">
-  <img src="https://img.shields.io/badge/anthropics%2Fclaude--code-14_PRs_Shipped-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==" alt="Claude Code PRs">
-</a>
+<p>
+  <a href="https://github.com/anthropics/claude-code/pulls?q=is%3Apr+author%3Aanshul-garg27">
+    <img src="https://img.shields.io/badge/anthropics%2Fclaude--code-14_PRs_Shipped-0969DA?style=for-the-badge&labelColor=000000" alt="Claude Code PRs">
+  </a>
+</p>
+
+> Contributed security hardening, CI/CD fixes, and plugin infrastructure improvements to Anthropic's open-source developer tool used by thousands of engineers.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Security & DevContainer Hardening**
-- SHA256 checksum verification for downloads
-- IP/CIDR octet range validation in firewall
-- Subnet detection from routing table
-- Curl timeout for API calls
-- Graceful DNS failure handling
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20" /> Security & Infrastructure</h4>
+
+&nbsp;&nbsp;&bull;&nbsp; SHA256 checksum verification for binary downloads<br>
+&nbsp;&nbsp;&bull;&nbsp; IP/CIDR octet range validation in firewall rules<br>
+&nbsp;&nbsp;&bull;&nbsp; Dynamic subnet detection from routing table<br>
+&nbsp;&nbsp;&bull;&nbsp; Curl timeout to prevent startup hangs<br>
+&nbsp;&nbsp;&bull;&nbsp; Graceful DNS failure handling in devcontainer
 
 </td>
 <td width="50%" valign="top">
 
-**CI/CD & Automation Fixes**
-- Safe JSON construction with `jq` (replacing `sed`)
-- Bot comment filtering in duplicate auto-close
-- Dispatch failure logging in workflows
-- YAML comment exclusion in security checks
-- Plugin metadata & documentation gaps
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" /> CI/CD & Automation</h4>
+
+&nbsp;&nbsp;&bull;&nbsp; Safe JSON construction with `jq` replacing fragile `sed`<br>
+&nbsp;&nbsp;&bull;&nbsp; Bot comment filtering in auto-close duplicate script<br>
+&nbsp;&nbsp;&bull;&nbsp; GitHub Actions warning annotations for failures<br>
+&nbsp;&nbsp;&bull;&nbsp; YAML comment exclusion in security checks<br>
+&nbsp;&nbsp;&bull;&nbsp; Plugin metadata, docs & permissions guide
 
 </td>
 </tr>
@@ -71,29 +76,32 @@ fun_fact: "I build rate limiters for fun and call it interview prep"
 
 ---
 
-### Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-**Languages**
-
+<h4 align="center">Languages</h4>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,typescript,go,java,js,bash&perline=3" />
+</p>
 
 </td>
 <td valign="top" width="33%">
 
-**Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,redis,postgres&perline=3" />
+<h4 align="center">Infrastructure</h4>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,prometheus,redis,postgres&perline=3" />
+</p>
 
 </td>
 <td valign="top" width="33%">
 
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,nodejs&perline=3" />
+<h4 align="center">Tools</h4>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,grafana,linux,vscode&perline=3" />
+</p>
 
 </td>
 </tr>
@@ -101,30 +109,30 @@ fun_fact: "I build rate limiters for fun and call it interview prep"
 
 ---
 
-### What I Build
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="28" /> &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 <a href="https://github.com/anshul-garg27/claude-enhancement-suite">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshul-garg27&repo=claude-enhancement-suite&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshul-garg27&repo=claude-enhancement-suite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=0969DA&text_color=C9D1D9" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/anshul-garg27/NeuronForge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshul-garg27&repo=NeuronForge&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshul-garg27&repo=NeuronForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=0969DA&text_color=C9D1D9" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/anshul-garg27/system-design-projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshul-garg27&repo=system-design-projects&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshul-garg27&repo=system-design-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=0969DA&text_color=C9D1D9" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/anshul-garg27/rate-limiter-python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshul-garg27&repo=rate-limiter-python&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anshul-garg27&repo=rate-limiter-python&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=0969DA&text_color=C9D1D9" />
 </a>
 </td>
 </tr>
@@ -132,31 +140,29 @@ fun_fact: "I build rate limiters for fun and call it interview prep"
 
 ---
 
-### GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshul-garg27&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshul-garg27&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshul-garg27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=0969DA&text_color=C9D1D9&rank_icon=github&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshul-garg27&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshul-garg27&theme=github-light&hide_border=true&area=true" alt="Activity Graph" width="98%"/>
-</p>
-
----
-
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshul-garg27&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshul-garg27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4AA&line=0969DA&point=00D4AA&area=true&area_color=0969DA" alt="Activity Graph" width="98%"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> &nbsp;Trophies
 
 <p align="center">
-  <em>Building things that work at scale, one commit at a time.</em>
+  <img src="https://github-profile-trophy.vercel.app/?username=anshul-garg27&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969DA,100:00D4AA&height=120&section=footer" width="100%" />
